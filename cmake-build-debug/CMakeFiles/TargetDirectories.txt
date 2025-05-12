@@ -1,3 +1,0 @@
-/home/wikinto/Documents/GitHub/RosePierreDoll/libs/RoseNG/cmake-build-debug/CMakeFiles/RoseNG.dir
-/home/wikinto/Documents/GitHub/RosePierreDoll/libs/RoseNG/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/wikinto/Documents/GitHub/RosePierreDoll/libs/RoseNG/cmake-build-debug/CMakeFiles/rebuild_cache.dir
