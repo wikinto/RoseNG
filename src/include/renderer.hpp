@@ -9,7 +9,6 @@
 #include "vector2.hpp"
 
 namespace RoseNG {
-    //Renderer odpowiada za uruchomienie okna i zarządzaniem co się na nim dzieje, póki co to niech rysuje, potem się zobaczy 12.05.2025
     class renderer {
         SDL_Window *win { nullptr };
         SDL_Renderer *sdl_renderer_ { nullptr };
